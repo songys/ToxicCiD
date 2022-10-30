@@ -4,7 +4,7 @@ Toxic Comment in Dictionary
 
 
 # 사전류에 있는 비윤리 문장
-사람이 육안으로 비윤리 문장으로 판별하고 https://demo.tunibridge.ai/safety/ 를 통해 비윤리성을 분석한 문장 3,625개
+사람이 육안으로 비윤리 문장으로 판별하고 https://demo.tunibridge.ai/safety/ 를 통해 비윤리성을 분석한 문장 3,625의 링크
 
 https://docs.google.com/spreadsheets/d/1x22lVignlMlXFeoXTS_VTd84WvJq94PU/edit?usp=sharing&ouid=101458098347566933556&rtpof=true&sd=true
 
