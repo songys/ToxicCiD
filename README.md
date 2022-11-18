@@ -9,8 +9,9 @@ Toxic Comment in Dictionary
 https://docs.google.com/spreadsheets/d/1x22lVignlMlXFeoXTS_VTd84WvJq94PU/edit?usp=sharing&ouid=101458098347566933556&rtpof=true&sd=true
 
 # 특징
-문학적이거나 비유적인 표현이 많음
-최근에 사용되는 비윤리 표현과  과거에 많이 쓰인 비윤리 표현이 섞여 있어서 비윤리 표현의 범위가 넒음              
+- 문학적이거나 비유적인 표현이 많음     
+- 최근에 사용되는 비윤리 표현과  과거에 많이 쓰인 비윤리 표현이 섞여 있어서 비윤리 표현의 범위가 넒음    
+                           
                 
 ```                       
 @inproceedings{song2022,               
