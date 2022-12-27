@@ -16,7 +16,8 @@ https://docs.google.com/spreadsheets/d/1x22lVignlMlXFeoXTS_VTd84WvJq94PU/edit?us
 ```                       
 @inproceedings{song2022,               
   author    = {송영숙 and 정유남},             
-  title     = {국어사전 용례의 윤리성 자동 판별 문제와 제안},      
+  title     = {국어사전 용례의 윤리성 자동 판별 문제와 제안(Example sentences of ethical classification and 
+suggestion in the Korean dictionary)},      
   booktitle = {Language and Information 26.2, 29-45},      
   year      = {2022},      
   publisher = {한국언어정보학회}      
